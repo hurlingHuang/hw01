@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "未來世界的水底都市，居民都是會發光的智慧魚類.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
